@@ -1,4 +1,4 @@
-#Group:
+#Group: GeoNinjas
 
 #Members:
 Ludwig Meyer
